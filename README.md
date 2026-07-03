@@ -5,7 +5,6 @@
 	<img src="https://img.shields.io/badge/TensorFlow-Keras-FF6F00?logo=tensorflow&logoColor=white" alt="TensorFlow badge">
 	<img src="https://img.shields.io/badge/Jupyter-Notebook-F37626?logo=jupyter&logoColor=white" alt="Jupyter badge">
 	<img src="https://img.shields.io/badge/Deep%20Learning-Brain%20MRI-0B7285" alt="Deep Learning badge">
-	<img src="https://img.shields.io/badge/License-Unspecified-lightgrey" alt="License badge">
 </p>
 
 <p align="center">
@@ -348,8 +347,3 @@ The helper function `img_pred()` returns one of the following labels:
 - Meningioma Tumor
 - Pituitary Tumor
 
-## Notes
-
-- The notebook is intentionally self-contained so the full workflow can be reviewed in one place.
-- The repository currently does **not** include an explicit license file, which is why the license badge is marked as unspecified.
-- If you add Grad-CAM or additional metrics later, export them into `assets/` and link them in Sections 7, 8, or 9.
